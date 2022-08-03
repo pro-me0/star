@@ -1,0 +1,14 @@
+{
+  "name": "console star",
+  "version": "1.0.0",
+  "description": "just for fun ... this is the code u run when u want to see stars in ur console",
+  "main": "star.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaZi",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
